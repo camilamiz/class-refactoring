@@ -1,5 +1,4 @@
 import { useRef } from 'react';
-import { FormEvent } from 'react';
 import { FiCheckSquare } from 'react-icons/fi';
 
 import { Input } from '../Input';
